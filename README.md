@@ -1,9 +1,9 @@
-![header](https://quotefancy.com/media/wallpaper/3840x2160/1986256-Abraham-Lincoln-Quote-No-man-ever-got-lost-on-a-straight-road.jpg)
+![header](https://www.azquotes.com/picture-quotes/quote-no-man-ever-got-lost-on-a-straight-road-abraham-lincoln-122-21-28.jpg)
 ### Hi there 👋
 
 My name is Santiago Lopez de haro and I am a Software Engineer always looking for new challenges. 
 
-I enjoy programming the most when I can solve someone's problem or just make a given process on the pipeline be more efficient making time more efficient for a user.
+I enjoy programming the most when I can solve someone's problem or just help business maximize their productivity with the power of digital tools.
 
 My main intrests are building scalable and reliable systems that help businesses optimize their workflows, also I have a strong direction toward ciber-security which I plan to get a master degrees on once I finish studying engineering.
 
