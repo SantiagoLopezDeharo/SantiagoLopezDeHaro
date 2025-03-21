@@ -1,15 +1,20 @@
 ![header](https://media.licdn.com/dms/image/v2/D4E16AQEehBy3HF1qBQ/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1732725830325?e=1747872000&v=beta&t=1kavVrjUxlRCRoUUXHG2yfCeKBbJLPWZPtQCsMGkBi0)
 ### Hello there 👋
 
-My name is Santiago Lopez de haro and I am a Software Engineer always looking for new challenges. 
+Software Engineer | Performance Optimization Enthusiast | Cybersecurity Advocate
 
-Performance and Optimization enthusiast.
+As a passionate Software Engineer, I thrive on tackling complex challenges and architecting high-performance solutions that transform business operations. My expertise lies in building scalable, resilient systems designed to streamline workflows and maximize productivity through cutting-edge digital tools.
 
-I enjoy programming the most when I can solve someone's problem or just help business maximize their productivity with the power of digital tools.
+Key Focus Areas:
 
-My main intrests are building scalable and reliable systems that help businesses optimize their workflows, also I have a strong direction toward ciber-security which I plan to get a master degrees on once I finish studying engineering.
+- **Scalable Architecture**: Designing systems with intentional vertical and horizontal scaling to ensure seamless growth under demanding workloads.
+- **DRY-Centric Systems Architect**: Design modular, layered architectures with strict separation of concerns and reusable components to eliminate redundancy, accelerate maintenance, and enable painless system evolution—turning upgrades from risks into routine optimizations
+- **High-Performance Engineering**: Optimizing concurrency management, thread efficiency, and non-blocking operations to maintain stability during peak traffic.
+- **Security-Centric Development**: Advancing toward cybersecurity mastery (pursuing graduate studies) to embed robust protection into system foundations.
 
-When I start a new project my main focus is to make sure the design allows a simple vertical and horizontal scaling and to ensure it will be able to manage concurrency efficiently on HIGH LOAD scenarios by managing efficiently multiple threads and non-blocking operations.
+I approach every project with a dual lens: engineering for today's needs while anticipating tomorrow's challenges. My solutions prioritize fault tolerance, efficient resource allocation, and proactive load management—ensuring applications perform exceptionally when it matters most.
+
+Driven by the intersection of innovation and practicality, I specialize in creating tools that don't just meet requirements but redefine operational potential. Let's engineer systems that scale smartly, secure fiercely, and sustain excellence.
 
 <br/>
 
