@@ -1,5 +1,5 @@
-![header](https://quotefancy.com/media/wallpaper/3840x2160/1986256-Abraham-Lincoln-Quote-No-man-ever-got-lost-on-a-straight-road.jpg)
-### Hi there 👋
+![header](https://media.licdn.com/dms/image/v2/D4E16AQEehBy3HF1qBQ/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1732725830325?e=1747872000&v=beta&t=1kavVrjUxlRCRoUUXHG2yfCeKBbJLPWZPtQCsMGkBi0)
+### Hello there 👋
 
 My name is Santiago Lopez de haro and I am a Software Engineer always looking for new challenges. 
 
