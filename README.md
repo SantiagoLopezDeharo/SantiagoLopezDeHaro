@@ -3,15 +3,24 @@
 
 My name is Santiago Lopez de haro and I am a Software Engineer always looking for new challenges. 
 
-I enjoy programming the most when I can solve someone's problem or just make a given process on the pipeline be more efficient making time more efficient for a user. 
+I enjoy programming the most when I can solve someone's problem or just make a given process on the pipeline be more efficient making time more efficient for a user.
+
+My main intrests are building scalable and reliable systems that help businesses optimize their workflows, also I have a strong direction toward ciber-security which I plan to get a master degrees on once I finish studying engineering.
+
+
+<br/>
+
 
 
 
 [![](https://komarev.com/ghpvc/?username=SantiagoLopezDeHaro&color=000000)](https://github.com/SantiagoLopezDeHaro?tab=repositories)
 
+
 [<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">](mailto:santiagolhgpro@gmail.com)
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/santiago-lopez-de-haro-2a1a4029a/)
 
+
+## Frequently used tools and tech stacks
 
 <div align="center">
 	<code><img height="50" src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" alt="Git" title="Git" /></code>
@@ -34,7 +43,9 @@ I enjoy programming the most when I can solve someone's problem or just make a g
 	<code><img height="50" src="https://cdn.freelogovectors.net/wp-content/uploads/2022/03/azure_sql_database_logo_freelogovectors.net_.png" alt="SQL" title="SQL" /></code>
 	<code><img height="50" src="https://user-images.githubusercontent.com/25181517/117447535-f00a3a00-af3d-11eb-89bf-45aaf56dbaf1.png" alt="HTML" title="HTML" /></code>
 	<code><img height="50" src="https://user-images.githubusercontent.com/25181517/183898674-75a4a1b1-f960-4ea9-abcb-637170a00a75.png" alt="CSS" title="CSS" /></code>
+	<code><img height="40" src="https://images.g2crowd.com/uploads/product/image/social_landscape/social_landscape_9461f02c23e995e5d5e46e2676d110af/draw-io.png" alt="draw.io" title="draw.io" /></code>
 </div>
+
 
 <br/>
 
