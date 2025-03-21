@@ -55,6 +55,6 @@ When I start a new project my main focus is to make sure the design allows a sim
 
 <br/>
 
-- 🔭 I’m currently working on [CodigoDelSur](https://www.codigodelsur.com) as a Software Developer
+- 🔭 I’m currently working at [CodigoDelSur](https://www.codigodelsur.com) as a Software Developer
 
-- 🌱 I am finishing university to get my degree on engineering.
+- 🌱 I am also finishing an engineering degree at [FING](https://www.fing.edu.uy) on Computer Science and Software Engineering.
