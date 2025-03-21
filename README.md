@@ -3,9 +3,13 @@
 
 My name is Santiago Lopez de haro and I am a Software Engineer always looking for new challenges. 
 
+Performance and Optimization enthusiast.
+
 I enjoy programming the most when I can solve someone's problem or just help business maximize their productivity with the power of digital tools.
 
 My main intrests are building scalable and reliable systems that help businesses optimize their workflows, also I have a strong direction toward ciber-security which I plan to get a master degrees on once I finish studying engineering.
+
+When I start a new project my main focus is to make sure the design allows a simple vertical and horizontal scaling and to ensure it will be able to manage concurrency efficiently on HIGH LOAD scenarios by managing efficiently multiple threads and non-blocking operations.
 
 
 <br/>
@@ -41,8 +45,6 @@ My main intrests are building scalable and reliable systems that help businesses
   <code><img height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/1280px-Node.js_logo.svg.png" alt="NodeJS" title="NodeJS" /></code>
   <code><img height="50" src="https://img.icons8.com/color/600/nestjs.png" alt="NestJs" title="NestJs" /></code>
 	<code><img height="50" src="https://cdn.freelogovectors.net/wp-content/uploads/2022/03/azure_sql_database_logo_freelogovectors.net_.png" alt="SQL" title="SQL" /></code>
-	<code><img height="50" src="https://user-images.githubusercontent.com/25181517/117447535-f00a3a00-af3d-11eb-89bf-45aaf56dbaf1.png" alt="HTML" title="HTML" /></code>
-	<code><img height="50" src="https://user-images.githubusercontent.com/25181517/183898674-75a4a1b1-f960-4ea9-abcb-637170a00a75.png" alt="CSS" title="CSS" /></code>
 	<code><img height="40" src="https://images.g2crowd.com/uploads/product/image/social_landscape/social_landscape_9461f02c23e995e5d5e46e2676d110af/draw-io.png" alt="draw.io" title="draw.io" /></code>
 </div>
 
