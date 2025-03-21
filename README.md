@@ -50,6 +50,7 @@ When I start a new project my main focus is to make sure the design allows a sim
 	<code><img height="50" src="https://cdn.freelogovectors.net/wp-content/uploads/2022/03/azure_sql_database_logo_freelogovectors.net_.png" alt="SQL" title="SQL" /></code>
 	<code><img height="50" src="https://user-images.githubusercontent.com/25181517/117207493-49665200-adf4-11eb-808e-a9c0fcc2a0a0.png" alt="Hibernate" title="Hibernate" /></code>
 	<code><img height="50" src="https://images.icon-icons.com/2415/PNG/512/sequelize_original_logo_icon_146348.png" alt="Sequelize" title="Sequelize" /></code>
+ 	<code><img height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1200px-Postgresql_elephant.svg.png" /></code>
 
 </div>
 
