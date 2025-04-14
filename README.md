@@ -50,6 +50,6 @@ As a passionate Software Engineer, I thrive on tackling complex challenges and a
 
 <br/>
 
-- 🔭 I’m currently working at [CodigoDelSur](https://www.codigodelsur.com) as a Software Developer
+- 🔭 I’m currently working at [BlueBoot](www.blueboot.com) as a Software Developer
 
 - 🌱 I am also finishing an engineering degree at [FING](https://www.fing.edu.uy) on Computer Science and Software Engineering.
