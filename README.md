@@ -1,4 +1,4 @@
-![header](https://media.licdn.com/dms/image/v2/D4E16AQEehBy3HF1qBQ/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1732725830325?e=1747872000&v=beta&t=1kavVrjUxlRCRoUUXHG2yfCeKBbJLPWZPtQCsMGkBi0)
+![header](/1732725830325.jpg)
 ### Hello there 👋
 
 Software Engineer | Performance Optimization Enthusiast | Cybersecurity Advocate
