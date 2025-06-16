@@ -12,7 +12,7 @@ As a passionate Software Engineer, I thrive on tackling complex challenges and a
 
 [<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">](mailto:santiagolhgpro@gmail.com)
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/santiago-lopez-de-haro-2a1a4029a/)
-[![CV](https://img.shields.io/badge/CV-Ver_Curr%C3%ADculum-blue?style=for-the-badge&logo=file-text&logoColor=white)](https://drive.google.com/file/d/1sNAIZmmxOHTQEZEqPxdG7OM0NJJ0goFp/view?usp=sharing)
+[![CV](https://img.shields.io/badge/CV-Ver_Curr%C3%ADculum-blue?style=for-the-badge&logo=file-text&logoColor=white)](https://drive.google.com/file/d/1sUwIn6Tp0BgomzGhVTfzipYQ53isNgF3/view?usp=sharing)
 
 ## Frequently used tools and tech stacks
 
