@@ -21,6 +21,7 @@ As a passionate Software Engineer, I thrive on tackling complex challenges and a
 	<code><img height="50" src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" alt="Git" title="Git" /></code>
 	<code><img height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Bash_Logo_Colored.svg/1024px-Bash_Logo_Colored.svg.png" alt="Bash" title="Bash" /></code>
 	<code><img height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/1200px-Tux.svg.png" alt="elementary OS" title="Linux" /></code>
+	<code><img height="60" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/docker.png" alt="Docker" title="Docker" /></code>
 	<code><img height="40" src="https://images.g2crowd.com/uploads/product/image/social_landscape/social_landscape_9461f02c23e995e5d5e46e2676d110af/draw-io.png" alt="draw.io" title="draw.io" /></code>
 <br/><br/>Languages:<br/>
   <code><img height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1822px-ISO_C%2B%2B_Logo.svg.png" alt="C++" title="C++" /></code>
