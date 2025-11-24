@@ -40,6 +40,7 @@ As a passionate Software Engineer, I thrive on tackling complex challenges and a
 <br/><br/>Front-end tools:<br/>
 	<code><img height="50" src="https://img.icons8.com/color/512/flutter.png" alt="Flutter" title="Flutter" /></code>
 	<code><img height="50" src="https://user-images.githubusercontent.com/25181517/183897015-94a058a6-b86e-4e42-a37f-bf92061753e5.png" alt="React" title="React" /></code>
+	<code><img height="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/next_js.png" alt="Next.js" title="Next.js"/></code>
 <!-- <br/><br/>Package-managers tools:<br/>
 	<code><img height="50" src="https://user-images.githubusercontent.com/25181517/121401671-49102800-c959-11eb-9f6f-74d49a5e1774.png" alt="npm" title="npm" /></code>
 	<code><img height="50" src="https://user-images.githubusercontent.com/25181517/117207242-07d5a700-adf4-11eb-975e-be04e62b984b.png" alt="Maven" title="Maven" /></code> -->
