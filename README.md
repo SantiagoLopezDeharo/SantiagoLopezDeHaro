@@ -26,15 +26,18 @@ As a passionate Software Engineer, I thrive on tackling complex challenges and a
 	<code><img height="40" src="https://images.g2crowd.com/uploads/product/image/social_landscape/social_landscape_9461f02c23e995e5d5e46e2676d110af/draw-io.png" alt="draw.io" title="draw.io" /></code>
 <br/><br/>Languages:<br/>
   <code><img height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1822px-ISO_C%2B%2B_Logo.svg.png" alt="C++" title="C++" /></code>
+	<code><img height="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/rust.png" alt="Rust" title="Rust" /></code>
 	<code><img height="50" src="https://user-images.githubusercontent.com/25181517/117201156-9a724800-adec-11eb-9a9d-3cd0f67da4bc.png" alt="Java" title="Java" /></code>
-	<code><img height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1024px-Typescript_logo_2020.svg.png" alt="TypeScript" title="TypeScript" /></code>
+	<code><img height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1024px-Typescript_logo_2020.svg.png" alt="TypeScript" title="TypeScript" /></code><br/>
 	<code><img height="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/go.png" alt="Golang" title="Golang" /></code>
 	<code><img height="50" src="https://www.cdnlogo.com/logos/p/3/python.svg" alt="Python" title="Python" /></code>
+	<code><img width="60" src="https://slopezdeharo.ddns.net/welcome_images/abap.png" alt="ABAP" title="ABAP" /></code>
 <br/><br/>Back-end tools:<br/>
 	<code><img height="50" src="https://user-images.githubusercontent.com/25181517/117201470-f6d56780-adec-11eb-8f7c-e70e376cfd07.png" alt="Spring" title="Spring" /></code>
 	<code><img height="50" src="https://user-images.githubusercontent.com/25181517/183891303-41f257f8-6b3d-487c-aa56-c497b880d0fb.png" alt="Spring Boot" title="Spring Boot" /></code>
 	<code><img height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/1280px-Node.js_logo.svg.png" alt="NodeJS" title="NodeJS" /></code>
-	<code><img height="50" src="https://img.icons8.com/color/600/nestjs.png" alt="NestJs" title="NestJs" /></code><br/>
+	<code><img height="50" src="https://img.icons8.com/color/600/nestjs.png" alt="NestJs" title="NestJs" /></code>
+	<code><img height="50" src="https://slopezdeharo.ddns.net/welcome_images/cap.png" alt="CAP" title="CAP" /></code><br/>
 	<code><img height="50" src="https://user-images.githubusercontent.com/25181517/192107858-fe19f043-c502-4009-8c47-476fc89718ad.png" alt="REST" title="REST" /></code>
 	<code><img height="50" src="https://user-images.githubusercontent.com/25181517/192107854-765620d7-f909-4953-a6da-36e1ef69eea6.png" alt="HTTP" title="HTTP" /></code>
 	<code><img height="50" src="https://user-images.githubusercontent.com/25181517/192109061-e138ca71-337c-4019-8d42-4792fdaa7128.png" alt="Postman" title="Postman" /></code>
@@ -42,6 +45,7 @@ As a passionate Software Engineer, I thrive on tackling complex challenges and a
 	<code><img height="50" src="https://img.icons8.com/color/512/flutter.png" alt="Flutter" title="Flutter" /></code>
 	<code><img height="50" src="https://user-images.githubusercontent.com/25181517/183897015-94a058a6-b86e-4e42-a37f-bf92061753e5.png" alt="React" title="React" /></code>
 	<code><img height="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/next_js.png" alt="Next.js" title="Next.js"/></code>
+	<code><img width="81"  src="https://slopezdeharo.ddns.net/welcome_images/fiori.png" alt="SAPUI5" title="SAPUI5"/></code>
 <!-- <br/><br/>Package-managers tools:<br/>
 	<code><img height="50" src="https://user-images.githubusercontent.com/25181517/121401671-49102800-c959-11eb-9f6f-74d49a5e1774.png" alt="npm" title="npm" /></code>
 	<code><img height="50" src="https://user-images.githubusercontent.com/25181517/117207242-07d5a700-adf4-11eb-975e-be04e62b984b.png" alt="Maven" title="Maven" /></code> -->
@@ -50,7 +54,7 @@ As a passionate Software Engineer, I thrive on tackling complex challenges and a
 	<code><img height="50" src="https://user-images.githubusercontent.com/25181517/117207493-49665200-adf4-11eb-808e-a9c0fcc2a0a0.png" alt="Hibernate" title="Hibernate" /></code>
 	<code><img height="50" src="https://images.icon-icons.com/2415/PNG/512/sequelize_original_logo_icon_146348.png" alt="Sequelize" title="Sequelize" /></code>
  	<code><img height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1200px-Postgresql_elephant.svg.png" /></code>
-
+	<code><img width="81"  src="https://slopezdeharo.ddns.net/welcome_images/hana.png" alt="HANA DB" title="HANA DB"/></code>
 </div>
 
 <br/>
